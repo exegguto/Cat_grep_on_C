@@ -1,0 +1,10 @@
+  
+test
+CLEAN
+patter
+cleanclean
+     
+^#include
+
+pattern
+asd
